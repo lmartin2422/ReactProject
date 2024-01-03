@@ -4,10 +4,7 @@ import React from "react";
 const Layout = () => {
     return (
         <main>
-            <Outlet>
-                
-            </Outlet>
-
+            <Outlet/>
         </main>
     )
 }
