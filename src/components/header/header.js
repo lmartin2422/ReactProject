@@ -12,7 +12,7 @@ const Header = () => {
         <Navbar bg="dark" variant="dark" expand="lg">
             <Container fluid>
                 <Navbar.Brand href="/" style={{"color": 'gold'}}>
-                 Leonard's React VideoTube Project
+                 Leonard's React Movie Project
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                 <Navbar.Collapse id="navbarScroll">

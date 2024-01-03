@@ -5,7 +5,7 @@ import Layout from './components/Layout';
 import { Routes, Route } from 'react-router-dom';
 import Home from './components/home/Home';
 import Header from './components/header/header';
-import Trailer from './components/trailer/trailer';
+import Trailer from './components/trailer/Trailer';
 import Reviews from './components/reviews/Reviews';
 
 
